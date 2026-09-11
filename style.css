@@ -140,3 +140,8 @@ hr.divider{
     border-bottom: none;
     width: 77%;
 }
+
+::selection {
+    color: #101622;
+    background: #B1FC00;
+  }
