@@ -9,6 +9,6 @@ function setup() {
     for(let i=0; i<7; i=i+1){
       // loop body
       fill(i*35,0,255)
-      circle(i*size+50, height/2, size)
+      circle(i*50+50, height/2, size)
     }
   }
