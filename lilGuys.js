@@ -1,5 +1,5 @@
 let particles=[]
-let phrases=["System.Robo: Hel...lo", "System.Robo: Die.", "System.Robo: Eat your broccolies.", "System.Robo: 맹꽁.", "System.Robo: 많이 좋아합니다.", "알아서 살라."]
+let phrases=["System.Robo: Hel...lo", "System.Robo: Die.", "System.Robo: Eat your broccolies.", "System.Robo: 맹꽁.", "System.Robo: 많이 좋아합니다.", "System.Robo: 알아서 살라."]
 let imgR, imgL, imgS
 
 async function setup() {
